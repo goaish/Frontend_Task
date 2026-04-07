@@ -170,7 +170,7 @@ const [mounted, setMounted] = useState(false);
 * Month and year navigation
 * Responsive design (desktop + mobile)
 
- **Demo Link:** *(Add your Loom/YouTube link here)*
+ **Demo Link:** https://www.loom.com/share/307906e425bb484180d9d1f28a617f44
 
 ---
 
